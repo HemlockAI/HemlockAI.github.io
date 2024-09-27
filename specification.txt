@@ -1,0 +1,3 @@
+10 HTML tags: 1. <!DOCTYPE html>, 2. <html>, 3. <head>, 4. <link>, 5. <script>, 6. <title>, 7. <body>, 8. <header>, 9. <nav>, 10. <footer>.
+5 CSS properties: 1. background-color, 2. color, 3. font-family, 4. padding, 5. text-align.
+brief (one-sentence) description of how you chose to use JavaScript and Bootstrap: In this assignment, I utilized JavaScript to implement a fade-in and fade-out transition between pages when clicked on, and used Bootstrap classes in my HTML files for the styling and layout of the webpage as a whole.
